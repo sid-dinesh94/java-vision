@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.99.2](https://www.github.com/googleapis/java-vision/compare/v1.99.1...v1.99.2) (2020-01-27)
+
+
+### Dependencies
+
+* update dependency org.threeten:threetenbp to v1.4.1 ([812b893](https://www.github.com/googleapis/java-vision/commit/812b893666753e73f24ef0d2c33916df19cc5bf3))
+
 ### [1.99.1](https://www.github.com/googleapis/java-vision/compare/v1.99.0...v1.99.1) (2020-01-03)
 
 
